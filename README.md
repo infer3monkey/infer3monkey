@@ -20,13 +20,3 @@ Generalist engineer. I pick end-to-end problems and build the whole stack to sol
 
 - Data engineering fundamentals, tooling, and best practices.
 - End-to-end production systems — full stack, ops, ML, and AI.
-
----
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=infer3monkey&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-&nbsp;
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infer3monkey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
