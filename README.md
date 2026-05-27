@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Daniel 👋
 
-<!--
-**infer3monkey/infer3monkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Generalist engineer. I pick end-to-end problems and build the whole stack to solve them — pipeline, API, web app, ops. Mostly data engineering, full stack, simple ML models, and applied AI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+**[The Top Chiefs Analytics Platform](https://topchiefsclash.com)** — a production data platform for an active Clash of Clans clan. Polls the game API on a schedule, runs a Bronze → Silver → Gold lakehouse on Cloudflare R2, serves it through FastAPI + Next.js, and ships a tool-calling Gemini assistant. Five Fly.io services, real users.
+
+---
+
+## What I'm into
+
+- **Solving My Own Real Problems.** I'd rather use my skills on things that make my life better — and, ideally, the lives of people who share my interests.
+- **System Design.** Designing how services hand off work to each other is the most fun part of any project. Conveniently, it's also the part AI is still bad at.
+- **Games + Rock Climbing.** Expect most projects on this profile to orbit one or both. More coming.
+
+## Currently exploring
+
+- Data engineering fundamentals, tooling, and best practices.
+- End-to-end production systems — full stack, ops, ML, and AI.
+
+---
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=infer3monkey&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+&nbsp;
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infer3monkey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
