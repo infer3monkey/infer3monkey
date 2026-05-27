@@ -13,10 +13,5 @@ Generalist engineer. I pick end-to-end problems and build the whole stack to sol
 ## What I'm into
 
 - **Solving My Own Real Problems.** I'd rather use my skills on things that make my life better — and, ideally, the lives of people who share my interests.
-- **System Design.** Designing how services hand off work to each other is the most fun part of any project. Conveniently, it's also the part AI is still bad at.
+- **System Design.** I want designs that are easy to read, scale when they need to, and no more complex than the problem demands. Conveniently, still the part AI is bad at.
 - **Games + Rock Climbing.** Expect most projects on this profile to orbit one or both. More coming.
-
-## Currently exploring
-
-- Data engineering fundamentals, tooling, and best practices.
-- End-to-end production systems — full stack, ops, ML, and AI.
