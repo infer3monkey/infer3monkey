@@ -6,7 +6,7 @@ Generalist engineer. I pick end-to-end problems and build the whole stack to sol
 
 ## What I'm building
 
-**[The Top Chiefs Analytics Platform](https://topchiefsclash.com)** — a production data platform for an active Clash of Clans clan. Polls the game API on a schedule, runs a Bronze → Silver → Gold lakehouse on Cloudflare R2, serves it through FastAPI + Next.js, and ships a tool-calling Gemini assistant. Five Fly.io services, real users.
+**[Top Chiefs Clash Analytics Platform](https://topchiefsclash.com)** — a production data platform for tracking player's Clash of Clans ranked attacks and transforming that data into easy to digest graphs and aggregated metrics for users. Five docker images deployed to cloud, real users.
 
 ---
 
